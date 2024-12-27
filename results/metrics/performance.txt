@@ -1,0 +1,16 @@
+FD001
+Root Mean Squared Error (RMSE): 20.4885198433097
+Mean Absolute Error (MAE): 15.052255611419678
+Mean Absolute Percentage Error (MAPE): 778.9236793356729
+FD002
+Root Mean Squared Error (RMSE): 31.00836889763734
+Mean Absolute Error (MAE): 22.972944819328866
+Mean Absolute Percentage Error (MAPE): 1524.2532974296728
+FD003
+Root Mean Squared Error (RMSE): 30.23601797980762
+Mean Absolute Error (MAE): 19.80769260406494
+Mean Absolute Percentage Error (MAPE): 1599.2610045785864
+FD004
+Root Mean Squared Error (RMSE): 40.56794427550128
+Mean Absolute Error (MAE): 29.489132173599735
+Mean Absolute Percentage Error (MAPE): 3051.357038365096
