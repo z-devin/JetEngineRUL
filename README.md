@@ -2,18 +2,6 @@
 
 This project implements Remaining Useful Life (RUL) prediction for NASA CMAPSS Turbofan Jet Engines using Long Short-Term Memory (LSTM) neural networks based off engine variables such as cycle times, operational settings, and sensor readings. The solution utilizes sliding windows for time-series data processing and Optuna for hyperparameter optimization across multiple datasets.
 
-
----
-
-## **Table of Contents**
-1. [Project Overview](#project-overview)
-2. [Setup Instructions](#setup-instructions)
-3. [Dependencies](#dependencies)
-4. [Data Source](#data-source)
-5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Results](#results)
-
 ---
 
 ## **Project Overview**
@@ -49,10 +37,10 @@ This project:
 
 ## **Dependencies**
 The following dependencies are required for this project:
-	•	Python (3.12.2)
-	•	TensorFlow (>=2.9.0)
-	•	NumPy
-	•	Pandas
-	•	Scikit-learn
-	•	Optuna
-	•	Matplotlib
+ - Python (3.12.2)
+ - TensorFlow (>=2.9.0)
+ - NumPy
+ - Pandas
+ - Scikit-learn
+ - Optuna
+ - Matplotlib
