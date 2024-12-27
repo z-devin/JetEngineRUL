@@ -57,16 +57,18 @@ The following dependencies are required for this project:
    JetEngineRUL/
      ├── data/
      │   ├── raw/
-     │   │   └── CMAPSSData/                     # Contains the C-MAPSS dataset
-     │   └── processed/                          # Contains processed dataset
+     │   │   ├── raw_data_instructions.txt   
+     │   │   └── CMAPSSData/                        # Place C-MAPSS dataset here
+     │   └── processed/                             # Contains processed dataset
+     │       └── processed_data_instructions.txt
      ├── notebooks/
-     │   ├── 01_eda.ipynb                        # Exploratory Data Analysis
-     │   ├── 02_preprocessing.ipynb              # Data Preprocessing
-     │   └── 03_modeling_and_evaluation.ipynb    # Modeling and Evaluation
+     │   ├── 01_eda.ipynb                           # Exploratory Data Analysis
+     │   ├── 02_preprocessing.ipynb                 # Data Preprocessing
+     │   └── 03_modeling_and_evaluation.ipynb       # Modeling and Evaluation
      ├── results/
-     │   ├── figures/                            # Figures from results
-     │   ├── metrics/                            # Performance Metrics
-     │   └── models/                             # Saved Models
-     ├── requirements.txt                        # Python dependencies
-     ├── LICENSE                                 # MIT License
-     └── README.md                               # Project description and instructions
+     │   ├── figures/                               # Figures from results
+     │   ├── metrics/                               # Performance Metrics
+     │   └── models/                                # Saved Models
+     ├── requirements.txt                           # Python dependencies
+     ├── LICENSE                                    # MIT License
+     └── README.md                                  # Project description and instructions
